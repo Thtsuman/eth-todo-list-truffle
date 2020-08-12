@@ -21,5 +21,9 @@
     "nodemon": "^2.0.4",
     "truffle": "^5.1.39",
     "truffle-contract": "^4.0.31"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "web3": "^1.2.11"
   }
 }
